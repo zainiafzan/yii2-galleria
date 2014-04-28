@@ -1,6 +1,6 @@
 <?php
 
-namespace zainiafzan\galleria;
+namespace zainiafzan\widget;
 
 class AutoloadExample extends \yii\base\Widget
 {
