@@ -1,0 +1,18 @@
+{
+    "name": "zainiafzan/yii2-galleria",
+    "description": "Yii2 Image Gallery using Galleria.io",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","image gallery","galleria"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zainiafzan",
+            "email": "zainiafzan@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "zainiafzan\\galleria\\": ""
+        }
+    }
+}
